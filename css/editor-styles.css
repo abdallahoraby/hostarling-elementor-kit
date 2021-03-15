@@ -1,0 +1,26 @@
+/***** Elementor Editor Styles *****/
+
+.hostarling-icon {
+    width: 40px !important;
+    height: 40px !important;
+    display: block !important;
+    margin: 0 auto !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+
+.hostarling-icon.accordion-gallery{
+    background: url("../images/accordion-gallery.png");
+}
+
+.hostarling-icon.hexa-gallery{
+    background: url("../images/hexa-gallery.png");
+}
+
+.hostarling-icon.accordion-two-gallery{
+    background: url("../images/accordion-two-gallery.png");
+}
+
+.hostarling-icon.cube-3d-gallery{
+    background: url("../images/cube-3d-gallery.png");
+}
